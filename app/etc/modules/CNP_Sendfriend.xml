@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<cnp_sendfriend>
+			<active>true</active>
+			<codepool>local</codepool>
+			<depends>
+				<Mage_Sendfriend />
+			</depends>
+		</cnp_sendfriend>
+	</modules>
+</config>
